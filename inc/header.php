@@ -2,18 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>Walking the Camino: Six Ways to Santiago</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
 
     <!-- Le styles -->
     <link href="stylesheets/bootstrap.css" rel="stylesheet">
-    <style>
-      body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-      }
-    </style>
+    
     <link href="stylesheets/bootstrap-responsive.css" rel="stylesheet">
     <link href="stylesheets/screen.css" rel="stylesheet">
     
@@ -26,30 +22,31 @@
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="../assets/ico/favicon.png">
   </head>
 
   <body>
-
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container main">
+    <a class="brand" href="#"><img src="images/header_logo-shell.png" alt=""></a>
+    <div class="navbar">
       <div class="navbar-inner">
-        <div class="container">
+        <div>
           <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#">Project name</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li><a href="#">Home</a></li>
-              <li><a href="#about">About</a>
-                <ul class="nav-dropdown">
-                  <li><a href="#">Something</a></li>
-                  <li><a href="#">Else</a></li>
-                  <li><a href="#">Entirely</a></li>
+              <li class="dropdown"><a href="#about" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Link 1</a></li>
+                  <li><a href="#">Link 2</a></li>
+                  <li><a href="#">Link 3</a></li>
+                  <li><a href="#">Link 4</a></li>
                 </ul>
               </li>
               <li><a href="#contact">Contact</a></li>
@@ -58,5 +55,8 @@
         </div>
       </div>
     </div>
+    <div class="sub-menu">
+            <strong><a href="screenings.php#screenings">Now in Select Theaters</a></strong> | <strong><a href="screenings.php#tugg">Bring the Film to You</a></strong> | <strong><a href="http://www.beyondword.com/product/walking-the-camino" target="_blank">DVD on Sale Late Fall</a></strong>
+            
+    </div>
 
-    <div class="container">
