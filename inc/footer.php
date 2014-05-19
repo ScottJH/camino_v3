@@ -2,45 +2,16 @@
         <div class="row-fluid">
 
             <div class="span4">
-                <h2>Contact Us</h2> 
-        
-            <p id="contactinfo-1">
-                <strong>Future Educational Films</strong><br>
-                Walking the Camino<br>
-                1327 SE Tacoma St. &#035;208<br>
-                Portland, OR 97202<br>
-                phone:  503.206.4968<br>
-                email: <a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#x63;&#x61;&#109;&#x69;&#x6e;&#x6f;&#x2e;&#x6d;&#97;&#x67;&#103;&#105;&#x65;&#x63;&#101;&#99;&#104;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#x6f;&#109;">&#x63;&#x61;&#109;&#105;&#x6e;&#x6f;&#x2e;&#x6d;&#x61;&#103;&#103;&#x69;&#101;&#99;&#101;&#x63;&#104;&#64;&#x67;&#109;&#x61;&#105;&#108;&#46;&#99;&#x6f;&#109;</a>
-            </p>
-
-            <p id="contactinfo-2">
-                <strong>European Office</strong><br>
-                Sally Bentley <br>
-                Paris, France <br>
-                phone:  33 (0)6 48 22 65 37
-
-            </p>
-            
-            <hr />
-        
-            <p>
-                <h2>Connect With Us</h2>
-                <ul class="connect">
-                  <li id="facebook"><a href="http://www.facebook.com/TheCaminoDocumentary" title="Facebook" target="_blank"><span class="icon-facebook"></span></a></li>
-                  <li id="youtube"><a href="http://www.youtube.com/user/TheCaminoDocumentary" title="YouTube" target="_blank"><span class="icon-youtube"></span></a></li>
-                  <li id="flickr"><a href="http://www.flickr.com/photos/37766135@N06/sets/72157617181683679/" title="Flickr" target="_blank"><span class="icon-flickr"></span></a></li>
-                  <li id="twitter"><a href="http://www.twitter.com/caminodoc" title="Twitter" target="_blank"><span class="icon-twitter"></span></a></li>
-                </ul>
-
-            </p>
+                
+            <?php include('inc/contact-us.html'); ?>    
             
             <hr>
 
             <p>
-                <a class="btn btn-primary" href="get_involved.php">Make a Donation</a>
+                <a class="btn btn-primary btn-block" href="get_involved.php">Make a Donation</a>
             </p>
             <p>
-                <a class="btn btn-primary" href="https://itunes.apple.com/us/app/camino-documentary/id805778634?mt=8" title="Download our App from the App Stpre" target="_blank">Download Our App</a>
+                <a class="btn btn-primary btn-block" href="https://itunes.apple.com/us/app/camino-documentary/id805778634?mt=8" title="Download our App from the App Stpre" target="_blank">Download Our App</a>
             </p>
             </div>
             <div class="span4">
@@ -58,7 +29,7 @@
                 <![endif]-->
 
                 <div id="mc_embed_signup" class="col-three">
-                <h2>Join Our Mailing List</h2>
+                <h3>Join Our Mailing List</h3>
                 <form action="http://caminodocumentary.us2.list-manage.com/subscribe/post?u=0073eab764f495c2a8232f57b&amp;id=7f031f33de" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
                 <div class="indicate-required" style="text-align: right;font-style: italic;overflow: hidden;color: #333;margin: 0 9% 0 0;">* indicates required</div>
                 <div class="mc-field-group" style="margin: 1.3em 5%;clear: both;overflow: hidden;">
@@ -493,10 +464,14 @@
                 <!--End mc_embed_signup-->
             </div>
             <div class="span4">
-                <h2>Header 2</h2>
-                <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, officiis, suscipit placeat optio minima fuga animi corporis laborum ad debitis soluta unde sit aspernatur excepturi quibusdam magni eos. Neque, iste.
-                </p>   
+
+                <a class="twitter-timeline" href="https://twitter.com/CaminoDoc" data-widget-id="430841808835194880">Tweets by @CaminoDoc</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                
+                <div class="hero-unit blog-posts">
+                    <h3>Latest Blog Posts</h3>
+                    <?php include('inc/blog-posts.php'); ?>
+                </div>
             </div>
 
         </div><!-- end Row -->

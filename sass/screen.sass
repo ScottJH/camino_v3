@@ -9,16 +9,18 @@ body
   color: #333a44
   font-family: "Tahoma", Arial, Helvetica, sans-serif
 
+div.laurels
+  text-align: center
+
 div.sub-menu
   text-align: center
   border-top: thin solid black
   border-bottom: thin solid black
-  padding-top: 20px
+ 
+div.sub-menu div
+  padding: 10px
+  text-align: center
 
-div.sub-menu .btn
-  font-size: 1.25em
-  margin-bottom: 20px
-  padding: 20px
 
 div.main
   background: transparent url('../images/bg_top-tall.jpg') no-repeat 0 0
@@ -27,12 +29,15 @@ div.main
 div.content
   margin: 20px auto 20px auto
   width: 75%
-  padding: 10px 20px
+  padding: 15px 20px
   background-color: #cdccc6
   background-color: rgba(255, 255, 255, 0.8)
   background: rgba(255, 255, 255, 0.8)
   -moz-border-radius: 5px
   -webkit-border-radius: 5px
+
+div.video
+  background-color: black
 
 span.icon-bar
   background-color: #1c2833
@@ -55,6 +60,33 @@ ul.connect li
   padding: 5px
   margin-right: 0.5em
 
+div.blog-posts
+  font-size: 1em
+  line-height: 1.25em
+  background-color: #333
+  padding: 5px 10px
+  text-align: left
+  margin: 20px auto 0 auto
+  color: #cfcfcf
+  -moz-border-radius: 5px
+  -webkit-border-radius: 5px
+  border-radius: 5px
+
+div.blog-posts h3
+  font-size: 14px
+  line-height: 16px
+  color: #cfcfcf
+  border-bottom: thin solid #cfcfcf
+  margin: 0
+  margin-bottom: 10px
+  padding: 5px
+
+div.blog-posts a
+  text-decoration: none
+
+div.blog-posts a:hover
+  color: white
+
 @media (max-width: 979px)
   div.navbar-inner ul
     background-color: rgba(255,255,255,0.8)
@@ -66,12 +98,14 @@ ul.connect li
     padding-top: 175px
     background: transparent url('../images/header_pilgrims.png') no-repeat center 75px
 
+@media (max-width: 1198px)
+  div.navbar a.brand
+    float: none
+    position: relative
+    left: 50%
+    margin-left: -220px
+
 @media (min-width: 979px)
   ul.nav
     font-size: 1.2em
-
-@media (max-width: 979px)
-  div.sub-menu .btn
-    width: 80%
-
   

@@ -74,7 +74,7 @@
                   <li><a href="media.php#press" title="The Camino Documentary: Press">Press</a></li>
                 </ul>
               </li>
-              <li><a href="#">Contact Us</a></li>
+              <li><a href="contact.php">Contact Us</a></li>
               <li><a href="#">Volunteer</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -83,8 +83,8 @@
     </div>
   
     <div class="sub-menu row-fluid">
-      <div class="span4"><a href="screenings.php#screenings" class="btn btn-primary">Now in Select Theaters</a></div>
-      <div class="span4"><a href="screenings.php#tugg" class="btn btn-primary">Bring the Film to You</a></div>
-      <div class="span4"><a href="http://www.beyondword.com/product/walking-the-camino" target="_blank" class="btn btn-primary">DVD on Sale Late Fall</a></div>     
+      <div class="span4"><a href="screenings.php#screenings" class="btn btn-block btn-large btn-primary">Now in Select Theaters</a></div>
+      <div class="span4"><a href="screenings.php#tugg" class="btn btn-block btn-large btn-primary">Bring the Film to You</a></div>
+      <div class="span4"><a href="http://www.beyondword.com/product/walking-the-camino" target="_blank" class="btn btn-block btn-large btn-primary">DVD on Sale Late Fall</a></div>     
     </div>
 
