@@ -1,4 +1,4 @@
-    <div class="content">  
+    <div class="content" id="footer">  
         <div class="row-fluid">
 
             <div class="span4">
@@ -26,10 +26,10 @@
             <p>
                 <h2>Connect With Us</h2>
                 <ul class="connect">
-                  <li id="facebook"><a href="http://www.facebook.com/TheCaminoDocumentary" title="Facebook" target="_blank"><img src="images/clear.gif" width="32" height="32" />facebook</a></li>
-                  <li id="youtube"><a href="http://www.youtube.com/user/TheCaminoDocumentary" title="YouTube" target="_blank"><img src="images/clear.gif" width="32" height="32" />youtube</a></li>
-                  <li id="flickr"><a href="http://www.flickr.com/photos/37766135@N06/sets/72157617181683679/" title="Flickr" target="_blank"><img src="images/clear.gif" width="32" height="32" />flickr</a></li>
-                  <li id="twitter"><a href="http://www.twitter.com/caminodoc" title="Twitter" target="_blank"><img src="images/clear.gif" width="32" height="32" />twitter</a></li>
+                  <li id="facebook"><a href="http://www.facebook.com/TheCaminoDocumentary" title="Facebook" target="_blank"><span class="icon-facebook"></span></a></li>
+                  <li id="youtube"><a href="http://www.youtube.com/user/TheCaminoDocumentary" title="YouTube" target="_blank"><span class="icon-youtube"></span></a></li>
+                  <li id="flickr"><a href="http://www.flickr.com/photos/37766135@N06/sets/72157617181683679/" title="Flickr" target="_blank"><span class="icon-flickr"></span></a></li>
+                  <li id="twitter"><a href="http://www.twitter.com/caminodoc" title="Twitter" target="_blank"><span class="icon-twitter"></span></a></li>
                 </ul>
 
             </p>
@@ -500,8 +500,7 @@
             </div>
 
         </div><!-- end Row -->
-    </div>    
-
+    </div><!-- end Footer -->    
 </div> <!-- /container -->
 
     <!-- Le javascript
@@ -520,6 +519,13 @@
     <script src="js/bootstrap-collapse.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
+    <script src="js/jquery.fitvids.js"></script>
+    <script>
+      $(document).ready(function(){
+        // Target your .container, .wrapper, .post, etc.
+        $("div.video").fitVids();
+      });
+    </script>
 
   </body>
 </html>
