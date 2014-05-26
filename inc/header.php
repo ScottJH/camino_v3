@@ -47,7 +47,7 @@
                 <ul class="dropdown-menu">
                   <li><a href="about.php">the Film</a></li>
                   <li><a href="the_camino.php">the Camino</a></li>
-                  <li><a href="about.php">the Pilgrims</a></li>
+                  <li><a href="pilgrims.php">the Pilgrims</a></li>
                   <li><a href="about.php">the Crew</a></li>
                   <li><a href="about.php">the Volunteers</a></li>
                 </ul>

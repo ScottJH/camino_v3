@@ -1,4 +1,9 @@
-<?php $title = ''; $description = ''; include('inc/header.php'); ?>
+<?php 
+
+	$title = ''; 
+	$description = ''; 
+
+include('inc/header.php'); ?>
 
 <!-- 
 

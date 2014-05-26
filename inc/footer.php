@@ -470,7 +470,7 @@
                 
                 <div class="hero-unit blog-posts">
                     <h3>Latest Blog Posts</h3>
-                    <?php include('inc/blog-posts.php'); ?>
+                    <?php include('http://caminodocumentary.org/blog-posts.php'); ?>
                 </div>
             </div>
 
