@@ -1,2 +1,8 @@
 
 *.json
+
+.sass-cache/7d8f2fb863bbc9a1fbe641de16e136b577f13a48/screen.sassc
+
+*.json
+
+*.sassc
