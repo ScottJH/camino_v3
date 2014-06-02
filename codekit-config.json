@@ -42,17 +42,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/images\/people\/mFeniger.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/people\/mFeniger.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/people\/mFeniger.jpg",
-      "initialSize" : 3708,
-      "fileType" : 4096
-    },
     "\/images\/sponsors\/logo_owenRoe.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -64,15 +53,6 @@
       "initialSize" : 25190,
       "fileType" : 4096
     },
-    "\/php\/library\/SimplePie\/Cache\/Memcache.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache\/Memcache.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/images\/icon_supporter_silver.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -82,6 +62,26 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/icon_supporter_silver.jpg",
       "initialSize" : 802,
+      "fileType" : 4096
+    },
+    "\/php\/library\/SimplePie\/Cache\/Memcache.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache\/Memcache.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/images\/people\/mFeniger.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/people\/mFeniger.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/people\/mFeniger.jpg",
+      "initialSize" : 3708,
       "fileType" : 4096
     },
     "\/images\/supporters\/logo_pazo_de_sedor.jpg" : {
@@ -194,15 +194,15 @@
       "initialSize" : 1009,
       "fileType" : 4096
     },
-    "\/js\/bootstrap-modal.js" : {
+    "\/js\/google-code-prettify\/prettify.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/bootstrap-modal.js",
+      "inputAbbreviatedPath" : "\/js\/google-code-prettify\/prettify.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/bootstrap-modal-ck.js",
+      "outputAbbreviatedPath" : "\/js\/google-code-prettify\/prettify-ck.js",
       "fileType" : 64
     },
     "\/images\/people\/jBrierley.jpg" : {
@@ -225,15 +225,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/js\/google-code-prettify\/prettify.js" : {
+    "\/js\/bootstrap-modal.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/google-code-prettify\/prettify.js",
+      "inputAbbreviatedPath" : "\/js\/bootstrap-modal.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/google-code-prettify\/prettify-ck.js",
+      "outputAbbreviatedPath" : "\/js\/bootstrap-modal-ck.js",
       "fileType" : 64
     },
     "\/images\/people\/jAtlas.jpg" : {
@@ -258,6 +258,15 @@
       "outputAbbreviatedPath" : "\/js\/holder\/holder-ck.js",
       "fileType" : 64
     },
+    "\/_pageTemplate.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_pageTemplate.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/sponsors\/logo_haydensGrill.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -268,15 +277,6 @@
       "outputAbbreviatedPath" : "\/images\/sponsors\/logo_haydensGrill.jpg",
       "initialSize" : 4180,
       "fileType" : 4096
-    },
-    "\/_pageTemplate.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_pageTemplate.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/images\/sponsors\/logo_hotelMonumento.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -491,15 +491,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/stylesheets\/print.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/stylesheets\/print.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/icomoon\/demo-files\/demo.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -510,6 +501,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/icomoon\/demo-files\/demo-ck.js",
       "fileType" : 64
+    },
+    "\/stylesheets\/print.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/stylesheets\/print.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/images\/supporters\/logo_apainza.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -533,15 +533,6 @@
       "outputAbbreviatedPath" : "\/js\/bootstrap-transition-ck.js",
       "fileType" : 64
     },
-    "\/content\/support_production.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/support_production.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/images\/people\/lSmith.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -552,6 +543,15 @@
       "outputAbbreviatedPath" : "\/images\/people\/lSmith.jpg",
       "initialSize" : 43247,
       "fileType" : 4096
+    },
+    "\/content\/support_production.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/support_production.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/sponsors\/logo_grandCentralBaking.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -810,17 +810,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/donation-form\/images\/static.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/donation-form\/images\/static.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/donation-form\/images\/static.jpg",
-      "initialSize" : 4399,
-      "fileType" : 4096
-    },
     "\/images\/people\/fCarbone.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -830,6 +819,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/people\/fCarbone.jpg",
       "initialSize" : 4032,
+      "fileType" : 4096
+    },
+    "\/donation-form\/images\/static.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/donation-form\/images\/static.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/donation-form\/images\/static.jpg",
+      "initialSize" : 4399,
       "fileType" : 4096
     },
     "\/pilgrims.php" : {
@@ -916,6 +916,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/images\/sponsors\/logo_rioja.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/sponsors\/logo_rioja.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/sponsors\/logo_rioja.jpg",
+      "initialSize" : 24208,
+      "fileType" : 4096
+    },
     "\/php\/library\/SimplePie\/IRI.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -933,17 +944,6 @@
       "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Credit.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/images\/sponsors\/logo_rioja.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/sponsors\/logo_rioja.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/sponsors\/logo_rioja.jpg",
-      "initialSize" : 24208,
-      "fileType" : 4096
     },
     "\/donation-form\/form.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1031,6 +1031,15 @@
       "initialSize" : 10437,
       "fileType" : 4096
     },
+    "\/store.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/store.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/people\/oRecolons.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1041,15 +1050,6 @@
       "outputAbbreviatedPath" : "\/images\/people\/oRecolons.jpg",
       "initialSize" : 3944,
       "fileType" : 4096
-    },
-    "\/store.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/store.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/sass\/print.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -1255,17 +1255,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/images\/icon_supporter_gold.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/icon_supporter_gold.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/icon_supporter_gold.jpg",
-      "initialSize" : 981,
-      "fileType" : 4096
-    },
     "\/images\/sponsors\/logo_caminoGuides.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1275,6 +1264,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/sponsors\/logo_caminoGuides.jpg",
       "initialSize" : 25736,
+      "fileType" : 4096
+    },
+    "\/images\/icon_supporter_gold.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/icon_supporter_gold.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/icon_supporter_gold.jpg",
+      "initialSize" : 981,
       "fileType" : 4096
     },
     "\/images\/sponsors\/logo_playersRacquet.jpg" : {
@@ -1352,15 +1352,6 @@
       "initialSize" : 3701,
       "fileType" : 4096
     },
-    "\/php\/library\/SimplePie\/Author.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Author.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/Bootstrap-Image-Gallery-3.1.0\/js\/bootstrap-image-gallery.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1371,6 +1362,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/Bootstrap-Image-Gallery-3.1.0\/js\/bootstrap-image-gallery.min-ck.js",
       "fileType" : 64
+    },
+    "\/php\/library\/SimplePie\/Author.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Author.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/supporters\/logo_hotel_san_fran.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1536,6 +1536,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/php\/library\/SimplePie\/Cache.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/js\/bootstrap.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1546,15 +1555,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/js\/bootstrap-ck.js",
       "fileType" : 64
-    },
-    "\/php\/library\/SimplePie\/Cache.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/sass\/ie.sass" : {
       "ignoreWasSetByUser" : 1,
@@ -1597,15 +1597,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/support_post.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/support_post.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/images\/people\/mdrysdale.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1623,6 +1614,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/inc\/blog-posts.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/support_post.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/support_post.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1710,6 +1710,17 @@
       "initialSize" : 24356,
       "fileType" : 4096
     },
+    "\/Bootstrap-Image-Gallery-3.1.0\/Gruntfile.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Bootstrap-Image-Gallery-3.1.0\/Gruntfile.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/Bootstrap-Image-Gallery-3.1.0\/Gruntfile-ck.js",
+      "fileType" : 64
+    },
     "\/images\/pilgrims\/annie.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1721,17 +1732,6 @@
       "initialSize" : 12165,
       "fileType" : 4096
     },
-    "\/images\/pilgrims\/misa.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/pilgrims\/misa.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/pilgrims\/misa.jpg",
-      "initialSize" : 12541,
-      "fileType" : 4096
-    },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1741,15 +1741,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
     },
-    "\/Bootstrap-Image-Gallery-3.1.0\/Gruntfile.js" : {
+    "\/js\/application.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Bootstrap-Image-Gallery-3.1.0\/Gruntfile.js",
+      "inputAbbreviatedPath" : "\/js\/application.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/Bootstrap-Image-Gallery-3.1.0\/Gruntfile-ck.js",
+      "outputAbbreviatedPath" : "\/js\/application-ck.js",
       "fileType" : 64
     },
     "\/images\/sponsors\/logo_impress.jpg" : {
@@ -1763,16 +1763,16 @@
       "initialSize" : 20879,
       "fileType" : 4096
     },
-    "\/js\/application.js" : {
+    "\/images\/pilgrims\/misa.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/application.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/application-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/images\/pilgrims\/misa.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/pilgrims\/misa.jpg",
+      "initialSize" : 12541,
+      "fileType" : 4096
     },
     "\/images\/people\/hMedina.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1905,6 +1905,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/support_production.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/support_production.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/supporters\/logo_casa_elisa.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1915,15 +1924,6 @@
       "outputAbbreviatedPath" : "\/images\/supporters\/logo_casa_elisa.jpg",
       "initialSize" : 5609,
       "fileType" : 4096
-    },
-    "\/support_production.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/support_production.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/images\/supporters\/logo_astur_plaza.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1936,17 +1936,6 @@
       "initialSize" : 5582,
       "fileType" : 4096
     },
-    "\/images\/people\/sHaselwood.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/people\/sHaselwood.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/people\/sHaselwood.jpg",
-      "initialSize" : 8957,
-      "fileType" : 4096
-    },
     "\/images\/supporters\/logo_paraiso_del_bierzo.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1956,6 +1945,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/supporters\/logo_paraiso_del_bierzo.jpg",
       "initialSize" : 3903,
+      "fileType" : 4096
+    },
+    "\/images\/people\/sHaselwood.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/people\/sHaselwood.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/people\/sHaselwood.jpg",
+      "initialSize" : 8957,
       "fileType" : 4096
     },
     "\/images\/supporters\/logo_pousada_portomarin.jpg" : {
@@ -2255,15 +2255,6 @@
       "initialSize" : 13844,
       "fileType" : 4096
     },
-    "\/php\/library\/SimplePie\/Cache\/Base.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache\/Base.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/images\/sponsors\/logo_pamperedPooch.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2274,6 +2265,15 @@
       "outputAbbreviatedPath" : "\/images\/sponsors\/logo_pamperedPooch.jpg",
       "initialSize" : 23174,
       "fileType" : 4096
+    },
+    "\/php\/library\/SimplePie\/Cache\/Base.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache\/Base.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/bg_top-tall.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2497,17 +2497,6 @@
       "initialSize" : 7085,
       "fileType" : 4096
     },
-    "\/images\/sponsors\/logo_debJones.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/sponsors\/logo_debJones.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/sponsors\/logo_debJones.jpg",
-      "initialSize" : 29436,
-      "fileType" : 4096
-    },
     "\/images\/people\/eRoura.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2517,6 +2506,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/people\/eRoura.jpg",
       "initialSize" : 9948,
+      "fileType" : 4096
+    },
+    "\/images\/sponsors\/logo_debJones.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/sponsors\/logo_debJones.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/sponsors\/logo_debJones.jpg",
+      "initialSize" : 29436,
       "fileType" : 4096
     },
     "\/images\/people\/lCarasa.jpg" : {
@@ -2656,24 +2656,6 @@
       "outputAbbreviatedPath" : "\/js\/jquery.fitvids-ck-ck.js",
       "fileType" : 64
     },
-    "\/php\/library\/SimplePie\/Parse\/Date.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Parse\/Date.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/php\/library\/SimplePie\/Core.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Core.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/images\/sponsors\/logo_costco.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2684,6 +2666,24 @@
       "outputAbbreviatedPath" : "\/images\/sponsors\/logo_costco.jpg",
       "initialSize" : 24182,
       "fileType" : 4096
+    },
+    "\/php\/library\/SimplePie\/Core.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Core.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/php\/library\/SimplePie\/Parse\/Date.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Parse\/Date.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/sponsors\/logo_powellBlvdVet.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2729,17 +2729,6 @@
       "initialSize" : 9530,
       "fileType" : 4096
     },
-    "\/images\/supporters\/logo_carrishoteles.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/supporters\/logo_carrishoteles.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/supporters\/logo_carrishoteles.jpg",
-      "initialSize" : 3001,
-      "fileType" : 4096
-    },
     "\/js\/bootstrap.min-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2760,6 +2749,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/supporters\/logo_sarria.jpg",
       "initialSize" : 9529,
+      "fileType" : 4096
+    },
+    "\/images\/supporters\/logo_carrishoteles.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/supporters\/logo_carrishoteles.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/supporters\/logo_carrishoteles.jpg",
+      "initialSize" : 3001,
       "fileType" : 4096
     },
     "\/js\/jquery.fitvids.js" : {
