@@ -3,7 +3,7 @@
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#crew-accordion" href="#producers">Producers</a>
     </div>
-    <div id="producers" class="accordion-body in collapse">
+    <div id="producers" class="accordion-body collapse">
       <div class="accordion-inner">
         <div class="row-fluid">
           <div class="tab-content span7">
@@ -131,15 +131,15 @@
       <div class="accordion-inner">
         <div class="row-fluid">
           <div class="tab-content span8">
-            <div class="tab-pane">
-                    <h2><img id="imgLeft" src="images/people/pValenzuela.jpg"  />
+            <div id="pvalenzuela" class="tab-pane active">
+                <h2><img id="imgLeft" src="images/people/pValenzuela.jpg"  />
                     Pedro Valenzuela</h2>
                     <p><strong>Director of Photography</strong></p>
                     <p>
                     Pedro Valenzuela, a cinematographer for more than 18 years, specializes in filming adventure travel documentaries all across the world. Originally from Santiago, Chile, this seasoned Director of Photography has shot in over 30 different countries to date - from Australia to Malaysia, from Russia to South Africa. After recently filming the North American passage taken by the Mayans thousands of years ago, Pedro captured those making their contemporary pilgrimage through Spain, leading the camera crew of <em>Walking the Camino</em>. 
                     </p>                    
                 </div>
-                <div class="tab-pane">
+                <div id="jmiller" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/jMiller.jpg"  />
                     Josh Miller</h2>
                     <p><strong>Cinematographer/Still Photographer</strong></p>
@@ -150,7 +150,7 @@
                     </p>
                     
                 </div>
-                <div class="tab-pane">
+                <div id="fcarbone" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/fCarbone.jpg"  />
                     Fernando Menéndez Carbone</h2>
                     <p><strong>Cinematographer</strong></p>
@@ -158,7 +158,7 @@
                     Originally from Buenos Aires, Argentina, Fernando Menéndez Carbone is a director and camera operator specializing in documentary films. He directed <em>Laboratorio 3</em>, <em>Return</em>, and <em>Massacre</em>, which received New York Festival Award for Best Documentary Film of Avellaneda and special mention in the Latino Film Festival. As a Camera Operator, he has worked with documentary and TV productions from the United States, Argentina, Germany, Spain, Venezuela, Puerto Rico and Mexico. He has also worked for numerous TV channels, including Spain's CNN, TVE, Telecinco, Cuatro and Telemadrid; Argentina's Thirteen, Telefe, Meeting and Open City; and Venezuela's Telesur (Venezuela), among others.
                     </p>                   
                 </div>
-                <div class="tab-pane">
+                <div id="acondon" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/aCondon.jpg"  />
                     Andres Condon</h2>
                     <p><strong>Sound Recordist/Composer</strong></p>
@@ -166,7 +166,7 @@
                     Andres Condon is from Chile and has been working as a Sound Recordist for many years in numerous documentaries, including the award winning TV series, <em>Al Sur del Mundo</em>. For more than 30 years, he has been composing original music for international films, TV series and documentaries. Deriving inspiration from the Camino itself, he will once again employ his beautiful talents by creating the score for <em>Walking the Camino</em>.
                     </p>
                 </div>
-                <div class="tab-pane">
+                <div id="narenas" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/nArenas.jpg"  />
                     Nacho Arenas</h2>
                     <p><strong>Sound Recordist</strong></p>
@@ -175,7 +175,7 @@
                     </p>
                     
                 </div>
-                <div class="tab-pane">
+                <div id="mjmendonca" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/mMendonca.jpg"  />
                     Marcelo José Mendon&ccedil;a Dos Santos</h2>
                     <p><strong>Field Producer/Camino Expert</strong></p>
@@ -184,7 +184,7 @@
                     </p>
                     
                 </div>
-                <div class="tab-pane">
+                <div id="aharrington" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/aHarrington.jpg"  />
                     Athenea Harrington</h2>
                     <p><strong>Field Producer</strong></p>
@@ -195,7 +195,7 @@
                     </p>
                     
                 </div>
-                <div class="tab-pane">
+                <div id="rsanchez" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/rSanchez.jpg"  />
                     Roque Sanchez</h2>
                     <p><strong>Field Producer</strong></p>
@@ -204,7 +204,7 @@
                     </p>
                     
                 </div>
-                <div class="tab-pane">
+                <div id="orecolons" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/oRecolons.jpg"  />
                     Olga Recolons</h2>
                     <p><strong>Spanish Production Coordinator/Chef</strong></p>
@@ -215,7 +215,7 @@
                     </p>
                     
                 </div>
-                <div class="tab-pane">
+                <div id="gandreon" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/gAndreon.jpg"  />
                     Guglielmo Andreon</h2>
                     <p><strong>Production Assistant</strong></p>
@@ -224,7 +224,7 @@
                     </p>
                     
                 </div>
-                <div class="tab-pane">
+                <div id="mfeniger" class="tab-pane">
                     <h2><img id="imgLeft" src="images/people/mFeniger.jpg"  />
                     Mani Feniger</h2>
                     <p><strong>Producer's Assistant</strong></p>
@@ -237,81 +237,81 @@
           </div>
           <div class="span4">
             <ul class="nav nav-pills" id="crewTabs">
-                    <li>
-                        <a href="#pvalenzuela">
-                        <img src="images/people/pValenzuela_thumb.gif" />
-                        <h3>Pedro Valenzuela</h3>
-                        Director of Photography
+                    <li class="active">
+                        <a href="#pvalenzuela" data-toggle="pill">
+                        <img src="images/people/pValenzuela_thumb.gif" class="pull-left" />
+                        <strong>Pedro Valenzuela</strong>
+                        <p>Director of Photography</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#jmiller">
-                        <img src="images/people/jMiller_thumb.gif" />
-                        <h3>Josh Miller</h3>
-                        Cinematographer/Photographer
+                        <a href="#jmiller" data-toggle="pill">
+                        <img src="images/people/jMiller_thumb.gif" class="pull-left" />
+                        <strong>Josh Miller</strong>
+                        <p>Cinematographer/ Photographer</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#fcarbone">
-                        <img src="images/people/fCarbone_thumb.gif" />
-                        <h3>Fernando Carbone</h3>
-                        Cinematographer 
+                        <a href="#fcarbone" data-toggle="pill">
+                        <img src="images/people/fCarbone_thumb.gif" class="pull-left" />
+                        <strong>Fernando Carbone</strong>
+                        <p>Cinematographer </p>
                         </a>
                     </li>
                     <li>
-                        <a href="#acondon">
-                        <img src="images/people/aCondon_thumb.gif" />
-                        <h3>Andres Condon</h3>
-                        Sound Recordist/Composer
+                        <a href="#acondon" data-toggle="pill">
+                        <img src="images/people/aCondon_thumb.gif" class="pull-left" />
+                        <strong>Andres Condon</strong>
+                        <p>Sound Recordist/Composer</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#narenas">
-                        <img src="images/people/nArenas_thumb.gif" />
-                        <h3>Nacho Arenas</h3>
-                        Sound Recordist
+                        <a href="#narenas" data-toggle="pill">
+                        <img src="images/people/nArenas_thumb.gif" class="pull-left" />
+                        <strong>Nacho Arenas</strong>
+                        <p>Sound Recordist</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#mmendonca">
-                        <img src="images/people/mMendonca_thumb.gif" />
-                        <h3>Marcelo Mendon&ccedil;a</h3>
-                        Field Producer/Camino Expert
+                        <a href="#mjmendonca" data-toggle="pill">
+                        <img src="images/people/mMendonca_thumb.gif" class="pull-left" />
+                        <strong>Marcelo Mendon&ccedil;a</strong>
+                        <p>Field Producer/Camino Expert</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#aharrington">
-                        <img src="images/people/aHarrington_thumb.gif" />
-                        <h3>Athenea Harrington</h3>
-                        Field Producer
+                        <a href="#aharrington" data-toggle="pill">
+                        <img src="images/people/aHarrington_thumb.gif" class="pull-left" />
+                        <strong>Athenea Harrington</strong>
+                        <p>Field Producer</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#rsanchez">
-                        <img src="images/people/rSanchez_thumb.gif" />
-                        <h3>Roque Sanchez</h3>
-                        Field Producer
+                        <a href="#rsanchez" data-toggle="pill">
+                        <img src="images/people/rSanchez_thumb.gif" class="pull-left" />
+                        <strong>Roque Sanchez</strong>
+                        <p>Field Producer</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#orecolons">
-                        <img src="images/people/oRecolons_thumb.gif" />
-                        <h3>Olga Recolons</h3>
-                        Production Coordinator/Chef
+                        <a href="#orecolons" data-toggle="pill">
+                        <img src="images/people/oRecolons_thumb.gif" class="pull-left" />
+                        <strong>Olga Recolons</strong>
+                        <p>Production Coordinator/Chef</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#gandreon">
-                        <img src="images/people/gAndreon_thumb.gif" />
-                        <h3>Guglielmo Andreon</h3>
-                        Production Assistant
+                        <a href="#gandreon" data-toggle="pill">
+                        <img src="images/people/gAndreon_thumb.gif" class="pull-left" />
+                        <strong>Guglielmo Andreon</strong>
+                        <p>Production Assistant</p>
                         </a>
                     </li>
                     <li>
-                        <a href="#mfeniger">
-                        <img src="images/people/mFeniger_thumb.gif" />
-                        <h3>Mani Feniger</h3>
-                        Producer’s Assistant
+                        <a href="#mfeniger" data-toggle="pill">
+                        <img src="images/people/mFeniger_thumb.gif" class="pull-left" />
+                        <strong>Mani Feniger</strong>
+                        <p>Producer’s Assistant</p>
                         </a>
                     </li>
                 </ul>
@@ -324,11 +324,155 @@
     <div class="accordion-heading">
      <a class="accordion-toggle" data-toggle="collapse" data-parent="#crew-accordion" href="#postproduction-crew">Post-Production Crew</a>
     </div>
-    <div id="postproduction-crew" class="accordion-body collapse">
+    <div id="postproduction-crew" class="accordion-body in collapse">
       <div class="accordion-inner">
         <div class="row-fluid">
-          <div class="tab-content span8"></div>
-          <div class="span4"></div>
+          <div class="tab-content span7">
+              <div id="bksegal" class="tab-pane active">
+                    <h2><img id="imgLeft" src="images/people/bSegal.jpg" />
+                    Beth K. Segal</h2>
+                    <p><strong>Editor</strong></p>
+                    <p>
+                    For the past 10 years, Beth has edited a range of projects including television series, documentaries, and fiction films both nationwide and internationally. The Times of London touted her “scalpel-sharp editing” on the A&E series <em>1st 48</em>, and her programs have consistently drawn high ratings on national and international scales. 
+                    </p>
+                    <p>While currently based in New York, she has also worked around the globe on such films as <em>Frederick Brenner in Hong Kong and China</em>, a documentary on the acclaimed French photographer; <em>Art in Hong Kong</em>, a profile of three artists working in a city known more for its free-wheeling capitalism than its appreciation of high art; <em>Prison Town</em>, a study of how the expansion of prisons affects small town America; and <em>Camp Victory</em>, a film on nation-building in Afghanistan. 
+                    </p>
+                    <p>In her spare time, Beth is an avid runner, travel enthusiast, and number one fan of her 5-year-old son, Max.
+                    </p>
+                
+                </div>
+                <div id="azabel" class="tab-pane">
+                    <h2><img id="imgLeft" src="images/people/aZabel.jpg"  />
+                    Andrew Zabel</h2>
+                    <p><strong>Webmaster/Assistant Editor</strong></p>
+                    <p>
+                    Andrew Zabel brings a wide array of media talents to the post-production of <em>Walking the Camino</em>. After receiving his BA in Film Production from Pacific University in Oregon, Andrew worked for several years as a web designer and internet media consultant. Since August of 2009, he has provided crucial assistance as a post-production intern, webmaster and web-marketing strategist. As Web Designer and Developer, Andrew relaunched the film's website in conjunction with the creation of its <a href="get_involved.php">Power of One</a> campaign. 
+                    </p>
+                    <p>International travel, documentary filmmaking and beautiful imagery are among Andrew's passions, and so he is naturally thrilled to be working on this film. He greatly looks forward to working alongside Editor Beth K. Segal during the film's editing process.
+                    </p>
+                </div>
+                <div id="cwestbrook" class="tab-pane">
+                    <h2><img id="imgLeft" src="images/people/cWestbrook.jpg"  />
+                    Chad Westbrook</h2>
+                    <p><strong>Post-Production Coordinator</strong></p>
+                    <p>Chad Westbrook started his path with film in taking classes at the Northwest Film Center. While still enrolled in school, he started as an editorial intern on "Walking the Camino" and fell in love with the project. After just under a year, Chad came on as a full time employee where he has played a very important role in the post-production phase.</p>
+                    <p>In his spare time, Chad performs improvised theater and is an avid hiker, spending as much time as possible in the sunny months in Portland exploring the beautiful Columbia Gorge.</p>
+                </div>
+                <div id="shaselwood" class="tab-pane">
+                    <h2><img id="imgLeft" src="images/people/sHaselwood.jpg"  />
+                    Scott Haselwood</h2>
+                    <p><strong>Assistant Web Developer</strong></p>
+                    <p>Scott Haselwood is an artist and designer living in Portland, OR. Originally from Wyoming, he moved to Oregon to study art and music at Pacific University. Scott joined the <em>Walking the Camino</em> team in February of 2013 to assist with regular website updates and improvements.
+                    </p>
+                    <p>Scott works as a freelance web developer and designer and is always looking for new projects. You can visit his website <a href="http://scottjh-creative.com" target="_blank">here</a>. He also enjoys illustration, fine art, comics, bluegrass music and baseball.</p> 
+                </div>
+                <div id="jjmcgeehan" class="tab-pane">
+                    <h2><img id="imgLeft" src="images/people/jMcgeehan.jpg"  />
+                    JJ McGeehan</h2>
+                    <p><strong>Composer</strong></p>
+                    
+                    <p>JJ McGeehan is a NYC based composer/musician.</p>
+                    
+                    <br /><br /><br /><br /><br /><br />
+                    <p>Some professional composing credits include :<br />
+                    
+                    <ul>
+                    <li><em>Spacious Sky</em> short film 2012</li>
+                    <li><em>Hugh Jackman: Back on Broadway</em> Orchestrator (2011-2012)</li>
+                    <li><em>Zeppelin</em> short film New Orleans Film Festival winner best music (2008)</li>
+                    <li><em>Jesus Camp</em> Oscar Nominated Feature  (2007)</li>
+                    <li><em>First Time Caller</em> (indie feature 2005, Theatrical Release)</li>
+                    <li><em>Boys of Baraka</em> (feature film - SXSW Film Festival jury and audience award winner 2005, New Port Film Festival Winner 2005, Woodstock audience prize winner 2005, IDA nominee)</li>
+                    
+                    <li><em>Julee Cruise: The Art of Being a Girl</em> (2002, producer/writer for the CD on Water Music/Universal)</li>
+                    
+                    <li><em>American Experience: Marcus Garvey: In The Whirlwind</em>  (official selection Sundance 2001)</li>
+                    </ul>
+                    </p>
+                            
+                </div>
+                <div id="jbuff" class="tab-pane">
+                    <h2><img id="imgLeft" src="images/people/jBuff.jpg" /></h2>
+                    <p><strong>Colorist</strong></p>
+                    <p>Jake has been employed at several post-production houses over the last 20 years. He worked in San Francisco in the 90's, then in Portland through 2010. He has been freelance since then. Jake learned color correction at Downstream about 12 years ago.  His experience is mostly with commercial and promotional work, but he has worked on several music videos and five or six feature length films, including:
+                     <ul>
+                         <li><em>Everyman's War</em></li>
+                         <li><em>The House of Last Things</em></li>
+                         <li><em>Alien Boy</em></li>
+                     </ul>
+                    </p>
+                </div>
+          </div>
+
+          <div class="span5">
+              <ul class="nav nav-pills" class="crewTabs">
+                    <li class="active">
+                        <a href="#bksegal" data-toggle="pill">
+                        <img src="images/people/bSegal_thumb.gif" class="pull-left"/>
+                        <strong>Beth K. Segal</strong>
+                        <p>Editor</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#lcarasa" data-toggle="pill">
+                        <img src="images/people/lCarasa_thumb.gif" class="pull-left"/>
+                        <strong>Luz Carasa</strong>
+                        <p>Assistant Editor</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#egandy" data-toggle="pill">
+                        <img src="images/people/eGandy_thumb.gif" class="pull-left"/>
+                        <strong>Evan Gandy</strong>
+                        <p>Associate Producer</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#azabel" data-toggle="pill">
+                        <img src="images/people/aZabel_thumb.gif" class="pull-left"/>
+                        <strong>Andrew Zabel</strong>
+                        <p>Webmaster/Assistant Editor</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#pstockton" data-toggle="pill">
+                        <img src="images/people/default_thumb.gif" class="pull-left"/>
+                        <strong>Phil Stockton</strong>
+                        <p>Computer Systems Consultant</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#cwestbrook" data-toggle="pill">
+                        <img src="images/people/cWestbrook_thumb.gif" class="pull-left"/>
+                        <strong>Chad Westbrook</strong>
+                        <p>Post-Production Coordinator</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#shaselwood" data-toggle="pill">
+                        <img src="images/people/sHaselwood_thumb.gif" class="pull-left"/>
+                        <strong>Scott Haselwood</strong>
+                        <p>Assistant Web Developer</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#jjmcgeehan" data-toggle="pill">
+                        <img src="images/people/jMcgeehan_thumb.gif" class="pull-left"/>
+                        <strong>JJ McGeehan</strong>
+                        <p>Composer</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#jbuff" data-toggle="pill">
+                        <img src="images/people/jBuff_thumb.gif" class="pull-left"/>
+                        <strong>Jake Buff</strong>
+                        <p>Colorist</p>
+                        </a>
+                    </li>
+                </ul>
+
+          </div>
+
         </div>
       </div>
     </div>
