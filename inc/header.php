@@ -49,7 +49,7 @@
                   <li><a href="the_camino.php">the Camino</a></li>
                   <li><a href="pilgrims.php">the Pilgrims</a></li>
                   <li><a href="crew.php">the Crew</a></li>
-                  <li><a href="about.php">the Volunteers</a></li>
+                  <li><a href="volunteers.php">the Volunteers</a></li>
                 </ul>
 
               </li>
