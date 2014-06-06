@@ -478,6 +478,8 @@
     </div><!-- end Footer -->    
 </div> <!-- /container -->
 
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -495,6 +497,15 @@
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
     <script src="js/jquery.fitvids.js"></script>
+    
+    <!-- Easybox concatenated -->
+    <script type="text/javascript" src="easybox/distrib.min.js"></script>
+
+    <!-- Easybox seperate files -->
+    <script type="text/javascript" src="easybox/easybox.min.js"></script>
+    <script type="text/javascript" src="easybox/handlers.min.js"></script>
+    <script type="text/javascript" src="easybox/extras/autoload.min.js"></script>
+
     <script>
       $(document).ready(function(){
         // Target your .container, .wrapper, .post, etc.

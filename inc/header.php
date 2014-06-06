@@ -13,6 +13,10 @@
     <link href="stylesheets/bootstrap-responsive.css" rel="stylesheet">
     <link href="stylesheets/screen.css" rel="stylesheet">
     
+    <!-- Easybox CSS -->
+
+    <link rel="stylesheet" href="easybox/styles/default/easybox.min.css" type="text/css" media="screen" />
+
     <!-- Icomoon Icons-->
 
     <link rel="stylesheet" href="icomoon/style.css">
@@ -67,7 +71,7 @@
                   <li><a href="support_tour.php" title="The Camino Documentary: Tour Supporters">Camino Tour</a></li>
                  </ul>
               </li>
-              <li><a href="#">Store</a></li>
+              <li><a href="store.php">Store</a></li>
               <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
                 <ul class="dropdown-menu">
                   <li><a href="media.php#videos" title="The Camino Documentary: Video">Videos</a></li>

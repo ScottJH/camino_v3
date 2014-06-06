@@ -7,7 +7,7 @@ include('inc/header.php'); ?>
 
 <!-- 
 
-//Content goes here using <?php include('...'); ?>
+//Content goes here using <?php include('content/*.php'); ?>
 
 -->
 
