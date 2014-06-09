@@ -387,6 +387,15 @@
       "outputAbbreviatedPath" : "\/easybox\/extras\/flickr.min-ck.js",
       "fileType" : 64
     },
+    "\/content\/products\/cap.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/cap.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/sponsors\/logo_wilson.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -453,15 +462,6 @@
       "initialSize" : 5302,
       "fileType" : 4096
     },
-    "\/php\/library\/SimplePie\/File.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/File.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/images\/products\/tote.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -472,6 +472,15 @@
       "outputAbbreviatedPath" : "\/images\/products\/tote.png",
       "initialSize" : 47761,
       "fileType" : 8192
+    },
+    "\/php\/library\/SimplePie\/File.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/File.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/sponsors\/logo_hospederiaSanBlas.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -919,12 +928,12 @@
       "initialSize" : 25602,
       "fileType" : 4096
     },
-    "\/content\/products\/test-product.html" : {
+    "\/content\/products\/pilgrim-guide.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/products\/test-product.html",
+      "inputAbbreviatedPath" : "\/content\/products\/pilgrim-guide.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -956,6 +965,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/php\/autoloader.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/content\/products\/decals.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/decals.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1118,6 +1136,15 @@
       "initialSize" : 20414,
       "fileType" : 4096
     },
+    "\/content\/products\/water-bottle.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/water-bottle.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/supporters\/logo_hotel_san_fran.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1128,6 +1155,17 @@
       "outputAbbreviatedPath" : "\/images\/supporters\/logo_hotel_san_fran.jpg",
       "initialSize" : 5060,
       "fileType" : 4096
+    },
+    "\/images\/products\/patch_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/patch_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/patch_th.png",
+      "initialSize" : 32825,
+      "fileType" : 8192
     },
     "\/easybox\/extras\/picasaweb.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1179,6 +1217,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/donation-form\/config.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/content\/products\/tote-bag.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/tote-bag.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1258,6 +1305,17 @@
       "outputAbbreviatedPath" : "\/images\/sponsors\/organization_cruDataport.jpg",
       "initialSize" : 7809,
       "fileType" : 4096
+    },
+    "\/images\/products\/decal_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/decal_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/decal_th.png",
+      "initialSize" : 34965,
+      "fileType" : 8192
     },
     "\/images\/supporters\/logo_gomserbus.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1354,17 +1412,6 @@
       "initialSize" : 7507,
       "fileType" : 4096
     },
-    "\/images\/supporters\/logo_pazo_de_sedor.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/supporters\/logo_pazo_de_sedor.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/supporters\/logo_pazo_de_sedor.jpg",
-      "initialSize" : 2174,
-      "fileType" : 4096
-    },
     "\/images\/media\/thumb_history_1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1374,6 +1421,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/media\/thumb_history_1.jpg",
       "initialSize" : 5600,
+      "fileType" : 4096
+    },
+    "\/images\/supporters\/logo_pazo_de_sedor.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/supporters\/logo_pazo_de_sedor.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/supporters\/logo_pazo_de_sedor.jpg",
+      "initialSize" : 2174,
       "fileType" : 4096
     },
     "\/images\/products\/t-shirt-womens.png" : {
@@ -1440,14 +1498,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/content\/the_crew.html" : {
+    "\/images\/people\/nArenas.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/the_crew.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/images\/people\/nArenas.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/people\/nArenas.jpg",
+      "initialSize" : 3424,
+      "fileType" : 4096
     },
     "\/get_involved.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1496,16 +1556,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/images\/people\/nArenas.jpg" : {
+    "\/content\/the_crew.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/people\/nArenas.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/people\/nArenas.jpg",
-      "initialSize" : 3424,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/content\/the_crew.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/products\/postcards\/postcard_front_03.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1524,6 +1582,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/about.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/content\/products\/what-the-bleep.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/what-the-bleep.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1726,6 +1793,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/content\/products\/shirt-mens.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/shirt-mens.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/php\/library\/SimplePie\/Source.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1754,6 +1830,15 @@
       "outputAbbreviatedPath" : "\/easybox\/styles\/modern\/error.png",
       "initialSize" : 1620,
       "fileType" : 8192
+    },
+    "\/content\/products\/patches.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/patches.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/sponsors\/logo_imagoTheatre.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1883,6 +1968,15 @@
       "initialSize" : 29900,
       "fileType" : 4096
     },
+    "\/content\/products\/bonus-dvd.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/bonus-dvd.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/easybox\/styles\/modern\/bg.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1904,6 +1998,17 @@
       "outputAbbreviatedPath" : "\/images\/people\/jAtlas.jpg",
       "initialSize" : 5897,
       "fileType" : 4096
+    },
+    "\/images\/products\/camino-guide_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/camino-guide_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/camino-guide_th.png",
+      "initialSize" : 67421,
+      "fileType" : 8192
     },
     "\/images\/products\/postcards\/thumbs\/postcard_front_02.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1993,6 +2098,15 @@
       "initialSize" : 12541,
       "fileType" : 4096
     },
+    "\/content\/products\/shirt-womens.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/shirt-womens.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/easybox\/distrib.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2022,6 +2136,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/content\/products\/postcards.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/postcards.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/products\/t-shirt-mens_side_thumb.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2032,6 +2155,15 @@
       "outputAbbreviatedPath" : "\/images\/products\/t-shirt-mens_side_thumb.png",
       "initialSize" : 12559,
       "fileType" : 8192
+    },
+    "\/content\/products\/poster.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/poster.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/people\/rSanchez.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2084,6 +2216,17 @@
       "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache\/Base.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/images\/products\/tote_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/tote_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/tote_th.png",
+      "initialSize" : 12642,
+      "fileType" : 8192
     },
     "\/js\/bootstrap-button.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2274,15 +2417,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/easybox\/styles\/default\/easybox.min.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/easybox\/styles\/default\/easybox.min.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/images\/pilgrims\/tatiana.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2293,6 +2427,15 @@
       "outputAbbreviatedPath" : "\/images\/pilgrims\/tatiana.jpg",
       "initialSize" : 8520,
       "fileType" : 4096
+    },
+    "\/easybox\/styles\/default\/easybox.min.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/easybox\/styles\/default\/easybox.min.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/easybox\/styles\/dark\/slidebtn.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2360,16 +2503,14 @@
       "outputAbbreviatedPath" : "\/js\/bootstrap-collapse-ck.js",
       "fileType" : 64
     },
-    "\/images\/people\/aZabel.jpg" : {
+    "\/php\/library\/SimplePie\/Cache.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/people\/aZabel.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/people\/aZabel.jpg",
-      "initialSize" : 9530,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/supporters\/logo_carpe_diem.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2393,14 +2534,16 @@
       "initialSize" : 21059,
       "fileType" : 4096
     },
-    "\/php\/library\/SimplePie\/Cache.php" : {
+    "\/images\/people\/aZabel.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Cache.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/images\/people\/aZabel.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/people\/aZabel.jpg",
+      "initialSize" : 9530,
+      "fileType" : 4096
     },
     "\/images\/supporters\/logo_palacio_del_carmen.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2512,6 +2655,15 @@
       "outputAbbreviatedPath" : "\/easybox\/extras\/autoload-ck.js",
       "fileType" : 64
     },
+    "\/php\/library\/SimplePie\/Sanitize.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Sanitize.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/js\/bootstrap-tab.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2522,15 +2674,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/js\/bootstrap-tab-ck.js",
       "fileType" : 64
-    },
-    "\/php\/library\/SimplePie\/Sanitize.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/php\/library\/SimplePie\/Sanitize.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/images\/media\/thumb_portrait_1.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2815,16 +2958,16 @@
       "initialSize" : 65476,
       "fileType" : 4096
     },
-    "\/images\/people\/jMcgeehan.jpg" : {
+    "\/images\/products\/poster-with-laurels_th.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/people\/jMcgeehan.jpg",
+      "inputAbbreviatedPath" : "\/images\/products\/poster-with-laurels_th.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/people\/jMcgeehan.jpg",
-      "initialSize" : 6087,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/images\/products\/poster-with-laurels_th.png",
+      "initialSize" : 37013,
+      "fileType" : 8192
     },
     "\/images\/sponsors\/logo_alberguePeregrinos.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2835,6 +2978,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/sponsors\/logo_alberguePeregrinos.jpg",
       "initialSize" : 51224,
+      "fileType" : 4096
+    },
+    "\/images\/people\/jMcgeehan.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/people\/jMcgeehan.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/people\/jMcgeehan.jpg",
+      "initialSize" : 6087,
       "fileType" : 4096
     },
     "\/the_camino.php" : {
@@ -3064,6 +3218,17 @@
       "inputAbbreviatedPath" : "\/icomoon\/demo.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/images\/products\/water-bottle_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/water-bottle_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/water-bottle_th.png",
+      "initialSize" : 11968,
+      "fileType" : 8192
     },
     "\/images\/products\/postcards\/thumbs\/postcard_front_08.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3337,16 +3502,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/images\/people\/jColaneri_tour.jpg" : {
+    "\/content\/products\/soundtrack.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/people\/jColaneri_tour.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/people\/jColaneri_tour.jpg",
-      "initialSize" : 4017,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/content\/products\/soundtrack.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/people\/aOneil.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3357,6 +3520,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/people\/aOneil.jpg",
       "initialSize" : 11672,
+      "fileType" : 4096
+    },
+    "\/images\/people\/jColaneri_tour.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/people\/jColaneri_tour.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/people\/jColaneri_tour.jpg",
+      "initialSize" : 4017,
       "fileType" : 4096
     },
     "\/support_post.php" : {
@@ -3454,6 +3628,28 @@
       "initialSize" : 28948,
       "fileType" : 4096
     },
+    "\/images\/products\/what_the_bleep_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/what_the_bleep_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/what_the_bleep_th.png",
+      "initialSize" : 64452,
+      "fileType" : 8192
+    },
+    "\/images\/products\/a-million-steps_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/a-million-steps_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/a-million-steps_th.png",
+      "initialSize" : 41861,
+      "fileType" : 8192
+    },
     "\/images\/products\/postcards\/thumbs\/postcard_front_03.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3520,6 +3716,17 @@
       "initialSize" : 3001,
       "fileType" : 4096
     },
+    "\/easybox\/styles\/dark\/error.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/easybox\/styles\/dark\/error.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/easybox\/styles\/dark\/error.png",
+      "initialSize" : 1133,
+      "fileType" : 8192
+    },
     "\/images\/products\/cd-front.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3542,17 +3749,6 @@
       "initialSize" : 15482,
       "fileType" : 4096
     },
-    "\/easybox\/styles\/dark\/error.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/easybox\/styles\/dark\/error.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/easybox\/styles\/dark\/error.png",
-      "initialSize" : 1133,
-      "fileType" : 8192
-    },
     "\/stylesheets\/screen.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -3571,6 +3767,28 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/easybox\/styles\/glow\/prevbtn.png",
       "initialSize" : 838,
+      "fileType" : 8192
+    },
+    "\/images\/products\/camino-caps_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/camino-caps_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/camino-caps_th.png",
+      "initialSize" : 16599,
+      "fileType" : 8192
+    },
+    "\/images\/products\/finding_joe_th.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/products\/finding_joe_th.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/products\/finding_joe_th.png",
+      "initialSize" : 55367,
       "fileType" : 8192
     },
     "\/images\/sponsors\/logo_vino.jpg" : {
@@ -3592,6 +3810,15 @@
       "inputAbbreviatedPath" : "\/easybox\/styles\/default\/easybox.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/content\/products\/test-product.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/test-product.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
@@ -3794,6 +4021,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/content\/products\/_productTemplate.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/_productTemplate.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/content\/the_pilgrims.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3944,6 +4180,15 @@
       "initialSize" : 13844,
       "fileType" : 4096
     },
+    "\/content\/products\/million-steps.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/million-steps.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/products\/postcards\/thumbs\/postcard_front_10.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4019,6 +4264,15 @@
       "initialSize" : 6743,
       "fileType" : 4096
     },
+    "\/content\/products\/finding-joe.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/products\/finding-joe.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/products\/postcards\/postcard_front_09.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4030,17 +4284,6 @@
       "initialSize" : 33011,
       "fileType" : 4096
     },
-    "\/images\/icon_supporter_silver.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/icon_supporter_silver.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/icon_supporter_silver.jpg",
-      "initialSize" : 802,
-      "fileType" : 4096
-    },
     "\/images\/sponsors\/logo_grandCentralBaking.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4050,6 +4293,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/sponsors\/logo_grandCentralBaking.jpg",
       "initialSize" : 30832,
+      "fileType" : 4096
+    },
+    "\/images\/icon_supporter_silver.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/icon_supporter_silver.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/icon_supporter_silver.jpg",
+      "initialSize" : 802,
       "fileType" : 4096
     },
     "\/images\/media\/thumb_port-acacio.jpg" : {
