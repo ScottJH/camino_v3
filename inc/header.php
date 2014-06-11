@@ -79,7 +79,7 @@
                 </ul>
               </li>
               <li><a href="contact.php">Contact Us</a></li>
-              <li><a href="#">Volunteer</a></li>
+              <li><a href="volunteer.php">Volunteer</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

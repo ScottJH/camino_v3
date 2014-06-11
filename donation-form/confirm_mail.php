@@ -44,7 +44,7 @@ $headers .= "Bcc: caminodoc@gmail.com \r\n";
 mail($to,$email_subject,$email_body,$headers);
 //done. redirect to thank-you page.
      echo('  
-
+    <div class="content">
     <h1>Thank You...</h1> 
     <p><strong>...for your generous support.
     Your donation brings us that much closer to finishing the film. </strong></p>
@@ -62,6 +62,7 @@ mail($to,$email_subject,$email_body,$headers);
     <p style="font-size:.85em;">The Camino Documentary is an independent production of Future Educational Films, Inc. - a 501(c)(3) non-profit. Any individual donation amount above the cost to create your gift(s) is tax-deductible to the donor as a charitable income tax deduction in the United States, to the extent allowed by law.  
 </p>
 	<p><a href="get_involved.php">Return to the Get Involved page</a></p>
+  </div>
 '."\n");
 
 

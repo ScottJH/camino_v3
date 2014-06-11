@@ -7,8 +7,6 @@
 
 include('inc/header.php'); ?>
 
-	<?php include('content/get_involved.html'); ?>
-
 		<?php
 			$page;
 			if( $_GET[page]==NULL ) $page="donation-form/form.php";
