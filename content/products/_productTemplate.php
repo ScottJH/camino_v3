@@ -1,7 +1,7 @@
 <?php 
-  
-  $productname = '';
-  $produtTitle = '';
+
+$productname = '';
+$produtTitle = '';
   $price ='';
 
 ?>
