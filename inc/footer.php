@@ -2,6 +2,8 @@
         <div class="row-fluid">
 
             <div class="span4">
+
+            <h3 id="contactus">Contact Us</h3>
                 
             <?php include('inc/contact-us.html'); ?>    
             
@@ -497,6 +499,7 @@
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
     <script src="js/jquery.fitvids.js"></script>
+    <script src="js/tcycle.js"></script>
     
     <!-- Easybox concatenated -->
     <script type="text/javascript" src="easybox/distrib.min.js"></script>

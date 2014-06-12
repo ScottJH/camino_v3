@@ -4,10 +4,55 @@
   Import this file using the following HTML or equivalent:
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 
+$serif-fonts: "Times New Roman", Times, serif
+$sans-fonts: "Tahoma", Arial, Helvetica, sans-serif
+$deep-blue: #1c2833
+$bright-blue: #0088cc
+$dusty-blue: #4C6B9E
+
 body
-  background-color: #1c2833 
+  background-color: $deep-blue 
   color: #333a44
-  font-family: "Tahoma", Arial, Helvetica, sans-serif
+  font-family: $sans-fonts
+
+h1, h2
+  font-family: $serif-fonts
+
+h1
+  margin: .5em 0
+  padding: 0
+  font-size: 1.8em
+  color: $deep-blue
+
+h2
+  margin: .5em 0em .2em 0em
+  font-size: 1.5em
+  padding: 0
+  color: $dusty-blue
+  font-weight: bold 
+
+h3
+  font-family: $sans-fonts
+  padding: .2em 0
+  margin: 0
+  font-size: 1.25em
+  color: $dusty-blue
+  font-weight: bold
+
+.btn-primary
+  background-color: #006dcc
+  background-image: -moz-linear-gradient(top, #0088cc, #4C6B9E)
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#4C6B9E))
+  background-image: -webkit-linear-gradient(top, #0088cc, #4C6B9E)
+  background-image: -o-linear-gradient(top, #0088cc, #4C6B9E)
+  background-image: linear-gradient(to bottom, #0088cc, #4C6B9E)
+  background-repeat: repeat-x
+  border-color: #4C6B9E #4C6B9E #002a80
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25)
+
+.btn-primary:hover
+  color: #ffffff
+  background-color: #4C6B9E
 
 div.laurels
   text-align: center
@@ -20,7 +65,6 @@ div.sub-menu
 div.sub-menu div
   padding: 10px
   text-align: center
-
 
 div.main
   background: transparent url('../images/bg_top-tall.jpg') no-repeat 0 0
@@ -35,6 +79,13 @@ div.content
   background: rgba(255, 255, 255, 0.8)
   -moz-border-radius: 5px
   -webkit-border-radius: 5px
+
+div#quotes
+  background: transparent url('../images/bg_home-quotes.png') no-repeat top center
+
+div#quotes div
+  text-align: center
+  width: 100%
 
 div.video
   background-color: black
@@ -104,8 +155,7 @@ img.pull-left
   margin-bottom: 5px
 
 div.product h3
-  font-size: 1.5em
-  line-height: 1.6em
+  line-height: 1.2em
 
 input[type="image"]#btn_paypal
   width: 208px
@@ -118,6 +168,26 @@ input[type="image"]#btn_donate-mail
   height: 55px
   overflow: hidden
   background: transparent url('../images/btns_payment.png') no-repeat 0 -220px
+
+ul.nav-pills > li.active a
+  background: $dusty-blue
+
+ul.nav-pills > li a
+  color: $dusty-blue
+
+a.accordion-toggle
+  font-size: 2em
+  background: $bright-blue
+  color: white
+  font-family: $serif-fonts
+
+div.accordion-inner ul.nav-pills > li,
+ul#pilgrimTabs > li
+  width: 100%
+
+div.accordion-inner ul.nav-pills li p
+  font-size: .85em
+  margin-top: 5px
 
 @media (max-width: 979px)
   div.navbar-inner ul
