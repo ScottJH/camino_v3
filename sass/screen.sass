@@ -82,10 +82,24 @@ div.content
 
 div#quotes
   background: transparent url('../images/bg_home-quotes.png') no-repeat top center
+  background-size: contain
 
 div#quotes div
   text-align: center
   width: 100%
+  vertical-align: baseline
+
+div#quotes div p
+  padding: 20px 15%
+
+#quotes div.small p
+  font-size: 1.15em
+#quotes div.medium p
+  font-size: 1.35em
+#quotes div.large p
+  padding-top: 30px 
+  font-size: 1.6em
+
 
 div.video
   background-color: black
@@ -197,17 +211,24 @@ div.accordion-inner ul.nav-pills li p
   div.content
     width: 90%  
 
-@media (min-width: 1198px)
+@media (min-width: 1201px)
   div.navbar ul.nav
     padding-top: 175px
     background: transparent url('../images/header_pilgrims.png') no-repeat center 75px
 
-@media (max-width: 1198px)
+@media (max-width: 1200px)
   div.navbar a.brand
     float: none
     position: relative
     left: 50%
     margin-left: -220px
+
+  div#quotes
+    background-color: #cdccc6
+    background-color: rgba(255, 255, 255, 0.8)
+  
+  div#quotes div p
+    padding: 40px 60px
 
 @media (min-width: 979px)
   ul.nav
