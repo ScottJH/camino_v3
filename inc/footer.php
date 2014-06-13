@@ -5,7 +5,31 @@
 
             <h3 id="contactus">Contact Us</h3>
                 
-            <?php include('inc/contact-us.html'); ?>    
+            <section class="cms-editable" contact="footer">
+            <p><strong>Future Educational Films</strong><br/>
+            Walking the Camino<br/>
+            1327 SE Tacoma St. #208<br/>
+            Portland, OR 97202<br/>
+            phone: 503.206.4968 </p>
+
+            <p>For general info: <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#x69;&#x6e;&#x66;&#x6f;&#x40;&#99;&#97;&#x6d;&#x69;&#x6e;&#111;&#100;&#x6f;&#x63;&#x75;&#109;&#x65;&#110;&#x74;&#97;&#x72;&#x79;&#46;&#x6f;&#114;&#103;">&#x69;&#110;&#102;&#111;&#64;&#99;&#x61;&#x6d;&#x69;&#x6e;&#111;&#x64;&#111;&#x63;&#x75;&#x6d;&#101;&#110;&#116;&#97;&#x72;&#x79;&#x2e;&#111;&#114;&#x67;</a><br/>
+            For theater bookings: <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x63;&#97;&#109;&#105;&#110;&#111;&#98;&#111;&#111;&#x6b;&#x69;&#x6e;&#x67;&#x73;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#x63;&#x61;&#x6d;&#105;&#110;&#x6f;&#98;&#111;&#x6f;&#x6b;&#x69;&#110;&#x67;&#x73;&#64;&#103;&#x6d;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a><br/>
+            For press or outreach: <a href="&#109;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#99;&#97;&#x6d;&#105;&#x6e;&#x6f;&#x2e;&#x6f;&#x75;&#x74;&#x72;&#101;&#97;&#x63;&#104;&#64;&#103;&#x6d;&#97;&#105;&#108;&#46;&#99;&#x6f;&#x6d;">&#99;&#97;&#109;&#x69;&#110;&#x6f;&#x2e;&#x6f;&#117;&#x74;&#114;&#101;&#97;&#99;&#x68;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#46;&#x63;&#111;&#109;</a> </p>
+
+            <p><strong>European Office</strong><br/>
+            Sally Bentley<br/>
+            Paris, France<br/>
+            phone: 33 (0)6 48 22 65 37 </p>
+
+            </section>
+
+             <h3>Connect With Us</h3>
+                <ul class="connect">
+                    <li id="facebook"><a href="http://www.facebook.com/TheCaminoDocumentary" title="Facebook" target="_blank"><span class="icon-facebook"></span></a></li>
+                    <li id="youtube"><a href="http://www.youtube.com/user/TheCaminoDocumentary" title="YouTube" target="_blank"><span class="icon-youtube"></span></a></li>
+                    <li id="flickr"><a href="http://www.flickr.com/photos/37766135@N06/sets/72157617181683679/" title="Flickr" target="_blank"><span class="icon-flickr"></span></a></li>
+                    <li id="twitter"><a href="http://www.twitter.com/caminodoc" title="Twitter" target="_blank"><span class="icon-twitter"></span></a></li>
+                </ul>   
             
             <hr>
 
@@ -485,29 +509,29 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap-transition.js"></script>
-    <script src="js/bootstrap-alert.js"></script>
-    <script src="js/bootstrap-modal.js"></script>
-    <script src="js/bootstrap-dropdown.js"></script>
-    <script src="js/bootstrap-scrollspy.js"></script>
-    <script src="js/bootstrap-tab.js"></script>
-    <script src="js/bootstrap-tooltip.js"></script>
-    <script src="js/bootstrap-popover.js"></script>
-    <script src="js/bootstrap-button.js"></script>
-    <script src="js/bootstrap-collapse.js"></script>
-    <script src="js/bootstrap-carousel.js"></script>
-    <script src="js/bootstrap-typeahead.js"></script>
-    <script src="js/jquery.fitvids.js"></script>
-    <script src="js/tcycle.js"></script>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap-transition.js"></script>
+    <script src="/js/bootstrap-alert.js"></script>
+    <script src="/js/bootstrap-modal.js"></script>
+    <script src="/js/bootstrap-dropdown.js"></script>
+    <script src="/js/bootstrap-scrollspy.js"></script>
+    <script src="/js/bootstrap-tab.js"></script>
+    <script src="/js/bootstrap-tooltip.js"></script>
+    <script src="/js/bootstrap-popover.js"></script>
+    <script src="/js/bootstrap-button.js"></script>
+    <script src="/js/bootstrap-collapse.js"></script>
+    <script src="/js/bootstrap-carousel.js"></script>
+    <script src="/js/bootstrap-typeahead.js"></script>
+    <script src="/js/jquery.fitvids.js"></script>
+    <script src="/js/tcycle.js"></script>
     
     <!-- Easybox concatenated -->
-    <script type="text/javascript" src="easybox/distrib.min.js"></script>
+    <script type="text/javascript" src="/easybox/distrib.min.js"></script>
 
     <!-- Easybox seperate files -->
-    <script type="text/javascript" src="easybox/easybox.min.js"></script>
-    <script type="text/javascript" src="easybox/handlers.min.js"></script>
-    <script type="text/javascript" src="easybox/extras/autoload.min.js"></script>
+    <script type="text/javascript" src="/easybox/easybox.min.js"></script>
+    <script type="text/javascript" src="/easybox/handlers.min.js"></script>
+    <script type="text/javascript" src="/easybox/extras/autoload.min.js"></script>
 
     <script>
       $(document).ready(function(){
