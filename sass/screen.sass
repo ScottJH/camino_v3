@@ -4,8 +4,9 @@
   Import this file using the following HTML or equivalent:
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 
-$serif-fonts: "Times New Roman", Times, serif
+$serif-fonts: "Georgia", "Times New Roman", Times, serif
 $sans-fonts: "Tahoma", Arial, Helvetica, sans-serif
+$sans-header-fonts: 'Montserrat', sans-serif
 $deep-blue: #1c2833
 $bright-blue: #0088cc
 $dusty-blue: #4C6B9E
@@ -15,29 +16,59 @@ body
   color: #333a44
   font-family: $sans-fonts
 
+strong.price
+  font-family: $sans-header-fonts
+  display: inline-block
+  font-size: 1.5em
+  margin-left: -10px
+  padding: 10px 10px 10px 5px
+  background: $dusty-blue
+  text-align: center
+  color: white
+  border-top-right-radius: 5px
+  border-bottom-right-radius: 5px
+
 h1, h2
-  font-family: $serif-fonts
+  font-family: $sans-header-fonts
 
 h1
   margin: .5em 0
   padding: 0
-  font-size: 1.8em
+  font-size: 2em
   color: $deep-blue
+  font-weight: normal
+
+h1.page-title
+  text-align: center
+  margin: 10px auto 0 auto
+  background: $deep-blue
+  color: white
+  width: 80%
+  background: -moz-linear-gradient(left, rgba(76,107,158,0) 0%, rgba(76,107,158,0.61) 20%, rgba(76,107,158,1) 33%, rgba(76,107,158,1) 50%, rgba(76,107,158,1) 66%, rgba(76,107,158,0.59) 80%, rgba(76,107,158,0) 100%) /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(76,107,158,0)), color-stop(20%,rgba(76,107,158,0.61)), color-stop(33%,rgba(76,107,158,1)), color-stop(50%,rgba(76,107,158,1)), color-stop(66%,rgba(76,107,158,1)), color-stop(80%,rgba(76,107,158,0.59)), color-stop(100%,rgba(76,107,158,0))) /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, rgba(76,107,158,0) 0%,rgba(76,107,158,0.61) 20%,rgba(76,107,158,1) 33%,rgba(76,107,158,1) 50%,rgba(76,107,158,1) 66%,rgba(76,107,158,0.59) 80%,rgba(76,107,158,0) 100%) /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, rgba(76,107,158,0) 0%,rgba(76,107,158,0.61) 20%,rgba(76,107,158,1) 33%,rgba(76,107,158,1) 50%,rgba(76,107,158,1) 66%,rgba(76,107,158,0.59) 80%,rgba(76,107,158,0) 100%) /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, rgba(76,107,158,0) 0%,rgba(76,107,158,0.61) 20%,rgba(76,107,158,1) 33%,rgba(76,107,158,1) 50%,rgba(76,107,158,1) 66%,rgba(76,107,158,0.59) 80%,rgba(76,107,158,0) 100%) /* IE10+ */
+  background: linear-gradient(to right, rgba(76,107,158,0) 0%,rgba(76,107,158,0.61) 20%,rgba(76,107,158,1) 33%,rgba(76,107,158,1) 50%,rgba(76,107,158,1) 66%,rgba(76,107,158,0.59) 80%,rgba(76,107,158,0) 100%) /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004c6b9e', endColorstr='#004c6b9e',GradientType=1 ) /* IE6-9 */
 
 h2
   margin: .5em 0em .2em 0em
   font-size: 1.5em
   padding: 0
   color: $dusty-blue
-  font-weight: bold 
+  font-weight: bold
 
 h3
   font-family: $sans-fonts
   padding: .2em 0
   margin: 0
-  font-size: 1.25em
+  font-size: 1.35em
   color: $dusty-blue
-  font-weight: bold
+  font-weight: normal
+
+ul.nav li
+  font-family: $sans-fonts
 
 .btn-primary
   background-color: #006dcc
@@ -191,17 +222,29 @@ ul.nav-pills > li a
 
 a.accordion-toggle
   font-size: 2em
-  background: $bright-blue
+  background: $dusty-blue
   color: white
-  font-family: $serif-fonts
+  font-family: $sans-header-fonts
 
 div.accordion-inner ul.nav-pills > li,
 ul#pilgrimTabs > li
   width: 100%
 
+div.accordion-inner ul.nav-pills > li,
+ul#pilgrimTabs > li,
+div.accordion-inner ul.nav-pills > li p,
+ul#pilgrimTabs > li p
+  font-family: $sans-header-fonts
+
 div.accordion-inner ul.nav-pills li p
   font-size: .85em
   margin-top: 5px
+
+img.pull-left,
+section.pull-left,
+a.pull-left
+  margin-right: 10px
+  margin-bottom: 10px
 
 @media (max-width: 979px)
   div.navbar-inner ul
@@ -210,6 +253,8 @@ div.accordion-inner ul.nav-pills li p
     border: none
   div.content
     width: 90%  
+
+
 
 @media (min-width: 1201px)
   div.navbar ul.nav

@@ -1,4 +1,4 @@
-<?php $title = ': Conatct Us'; $description = ''; include('inc/header.php'); ?>
+<?php $title = 'Conatct Us'; $description = ''; include('inc/header.php'); ?>
 
 <div class="content">
 	<div class="row-fluid">

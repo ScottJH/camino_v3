@@ -6,7 +6,6 @@
 include('inc/header.php'); ?>
 
 	<div class="content">
-	<h1>Store</h1>	
 	<span class="cms-editable" id="headline-message">
 		Lorem testin messge blah blah.
 	</span>

@@ -1,4 +1,4 @@
-<?php $title = ': About the Camino de Santiago'; $description = ''; include('inc/header.php'); ?>
+<?php $title = 'About the Camino de Santiago'; $description = ''; include('inc/header.php'); ?>
 
 	<?php include('content/the_camino.html'); ?>
 

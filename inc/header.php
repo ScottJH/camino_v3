@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Walking the Camino: Six Ways to Santiago<?php echo $title; ?></title>
+    <title>Walking the Camino: Six Ways to Santiago: <?php echo $title; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?php echo $description; ?>">
     <meta name="author" content="">
@@ -12,6 +12,10 @@
     
     <link href="/stylesheets/bootstrap-responsive.css" rel="stylesheet">
     <link href="/stylesheets/screen.css" rel="stylesheet">
+
+    <!-- Web Fonts-->
+    
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     
     <!-- Easybox CSS -->
 
@@ -91,4 +95,4 @@
       <div class="span4"><a href="screenings.php#tugg" class="btn btn-block btn-large btn-primary">Bring the Film to You</a></div>
       <div class="span4"><a href="http://www.beyondword.com/product/walking-the-camino" target="_blank" class="btn btn-block btn-large btn-primary">DVD on Sale Late Fall</a></div>     
     </div>
-
+<h1 class="page-title"><?php echo $title; ?></h1>

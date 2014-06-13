@@ -1,6 +1,6 @@
 <?php 
 
-	$title = 'the Crew'; 
+	$title = 'Our Crew'; 
 	$description = 'Meet the crew of Walking the Camino'; 
 
 include('inc/header.php'); ?>

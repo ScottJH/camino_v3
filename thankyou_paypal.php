@@ -1,6 +1,6 @@
 <?php 
 
-	$title = ''; 
+	$title = 'Thank You'; 
 	$description = ''; 
 
 include('inc/header.php'); ?>

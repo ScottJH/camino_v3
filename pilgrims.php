@@ -1,6 +1,6 @@
 <?php 
 
-	$title = 'the Pilgrims'; 
+	$title = 'The Pilgrims'; 
 	$description = 'Learn about the pilgrims from Walking the Camino'; 
 
 include('inc/header.php'); ?>
