@@ -1,6 +1,6 @@
 <?php 
 
-	$title = 'Volunteers'; 
+	$title = 'Our Volunteers'; 
 	$description = ''; 
 
 include('inc/header.php'); ?>
